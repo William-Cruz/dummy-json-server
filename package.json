@@ -1,0 +1,14 @@
+{
+  "name": "ps3_test_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "William Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
